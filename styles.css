@@ -133,3 +133,9 @@ body {
 .wind-rotate {
   display: flex;
 }
+
+@media screen and (max-height: 700px) {
+  .weather-container {
+    margin-top: 30%;
+  }
+}
